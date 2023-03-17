@@ -1,5 +1,5 @@
 # Vue js Calendar App
-Created a Calendar Application Using Vue 3 And Tailwind css
+Created a Calendar Application Using Vue js And Tailwind css.
 
 ```sh
 npm install
